@@ -7,7 +7,7 @@
 **Swin-sprite** 是一种针对多变量时间序列预测（Multivariate Time Series Forecasting）设计的全新极简架构。它巧妙地结合了计算机视觉中的 **Swin Transformer** 与时序领域的 **iTransformer** 思想，通过“一维折叠（1D-to-2D Folding）”技术，极大地提升了模型对局部周期性和全局变量间依赖的捕捉能力。
 
 ## 🚀实际复现，实际跑分 
-负荷预测：
+**负荷预测**：
 Swin-sprite变体在UCI Electricity数据集上L=96,T=96的配置下，Test mse为0.132-0.135，Test Mse 超过itransformer和patch tst
 说明Swin-sprite是Electricity数据集上的sota(L=96,T=96)
 
