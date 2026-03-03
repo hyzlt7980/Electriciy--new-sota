@@ -21,6 +21,7 @@ itransformer: 0.148和 patch tst:0.181
 ![Swin-iFold Architecture](./architecture.png) *()*
 ![Swin-iFold Architecture-hand drawing](./swin-sprite.png) *()*
 ![swin-shift-window-attention](./swin-shift-window-attention.png) *()* 
+![swinifold-shifted-window-attention](./ifold.png) *()* 
 
 ## 🚀 核心创新 (Key Innovations)
 
